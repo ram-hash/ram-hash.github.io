@@ -23,8 +23,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Internet of Everything
-- Cyber-Physical System
+- Computer Vision
+- Nerf,Gaussian splatting
 - Industrial Informatics
 - Applied Machine Learning
 - [My latest research proposal (Dec 2023)](https://caihanlin.com/file/proposal-2023.pdf)🔗
